@@ -1,0 +1,66 @@
+.bg-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    object-fit: fill;
+    width: 100%;
+}
+
+.top1 {
+    font-family: Ovo;
+    font-size: 4.5rem;
+    padding-top: 4rem;
+}
+
+.top2 {
+    font-family: Ovo;
+    font-size: 2rem;
+}
+
+#try-it {
+    width: 15rem;
+    height: 7rem;
+    font-size: 3rem;
+    text-align: center;
+    border-radius: 2rem;
+}
+
+#about {
+    padding-top: 2rem;
+    padding-left: 3rem;
+    padding-right: 3rem;
+    padding-bottom: 2rem;
+    height: 35rem;
+    background-color: rgb(254, 80, 80);
+}
+
+.card-body {
+    background-color: #e49cf6;
+}
+
+.card-img-top {
+    height: 40rem;
+    object-fit: cover;
+}
+
+.card-footer {
+    background-color: #e49cf6;
+}
+
+#past {
+    background-color: #FF8F00;
+    height: 17rem;
+}
+
+#aboutUs {
+    background-color: rgb(255, 100, 100);
+    padding-top: 2rem;
+    padding-left: 4rem;
+    height: 25rem;
+}
+
+.footer {
+    background-color: rgb(254, 80, 80);
+    padding-top: 2rem;
+    height: 10rem;
+}

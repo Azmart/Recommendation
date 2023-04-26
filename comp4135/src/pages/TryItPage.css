@@ -1,0 +1,13 @@
+.TryIt{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#try-it {
+    width: 15rem;
+    height: 5rem;
+    font-size: 2rem;
+    text-align: center;
+    border-radius: 2rem;
+}

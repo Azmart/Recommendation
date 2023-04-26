@@ -1,0 +1,33 @@
+.UserInput{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+
+#get-it{
+    height: 4rem;
+    font-size: 2rem;
+    text-align: center;
+    border-radius: 1rem;
+}
+
+.selected-genres {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 10px;
+  }
+  
+  .selected-genres .genre {
+    background-color: #87cefa;
+    border: 1px solid black;
+    border-radius: 5px;
+    color: black;
+    margin: 5px;
+    padding: 5px 10px;
+  }
+  
+  .selected-genres .genre:hover {
+    background-color: #add8e6;
+    cursor: pointer;
+  }
