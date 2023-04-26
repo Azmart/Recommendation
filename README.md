@@ -56,3 +56,6 @@ Second terminal:
 cd comp4135
 
 npm start
+
+After the react app is run in localhost:3000, we need to add the Moesif Origin & CORS Changer extension in chrome and enable it for passing the data from backend 
+localhost:5000 to localhost:3000 properly.
